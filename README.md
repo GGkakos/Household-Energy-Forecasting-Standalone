@@ -2,14 +2,15 @@
 
 ---
 
-> ### Note: Archived Repository
-> This repository represents the completed version of the project (as of 29/12/2024) collaboratively built by:
+> ### Note: Standalone Repository – Maintained by Georgios Gkakos
+> This repository represents the completed and now standalone version of a collaborative project originally built by:
 > 
 > [Marij Qureshi](https://github.com/MarijQ), [Georgios Gkakos](https://github.com/GGkakos), [Het Suhagiya](https://github.com/HetSuhagiya)
 > 
-> This repository is no longer actively maintained. Please see individual forks for the most up-to-date versions.
+> As of **29/12/2024**, the original repository has been archived. This standalone version is now maintained by **Georgios Gkakos** for future updates and improvements.
 
 ---
+
 
 ## Table of Contents
 
